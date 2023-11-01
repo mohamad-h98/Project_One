@@ -1,0 +1,17 @@
+
+
+@media screen and (max-width: 1000px) {
+    .list-group, .one {
+        width: 100%;
+    }
+    .p-100{
+        padding: 10px;
+    }
+    .container{
+        max-width: 100% !important;
+        margin: 0px !important;
+        padding: 0px !important;
+    }
+  }
+
+  
